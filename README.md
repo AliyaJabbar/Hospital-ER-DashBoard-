@@ -91,7 +91,7 @@ Hospital ER management requires **real-time insights** into patient flow, wait t
 ## 💻 Demo Video
 
 Watch the dashboard in action:
-!(https://github.com/AliyaJabbar/Hospital-ER-DashBoard-/blob/main/Hospital%20Emergency.mp4)
+!(https://youtu.be/f72Q8Z23xrs)
 
 
 
